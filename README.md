@@ -45,4 +45,10 @@
 
 ---
 
+### 🐍 Snake Contribution Graph
+
+![snake gif](https://github.com/7Fuzzy7/7Fuzzy7/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=66b2ff&height=120&section=footer"/>
