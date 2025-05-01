@@ -47,7 +47,7 @@
 
 ### 🐍 Snake Contribution Graph
 
-![snake gif](https://github.com/7Fuzzy7/7Fuzzy7/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/7Fuzzy7/7Fuzzy7/output/github-contribution-grid-snake.svg)
 
 ---
 
